@@ -1,16 +1,10 @@
 
 # Datensätze
-Die Datei rentals_2014.csv beinhaltet die Ausleihen des Jahres 2014.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
 
 
 Name | Beschreibung 
 --- | --- 
-rentals_<YEAR>.csv | Ausleihen des Jahres **<YEAR>**, z.B. rentals_2014.csv beinhaltet die Ausleihen des Jahres 2014. 
+rentals_*YEAR*.csv | Ausleihen des Jahres *YEAR*, z.B. rentals_2014.csv beinhaltet die Ausleihen des Jahres 2014. 
 
 
 # Lizenzen
