@@ -3,7 +3,7 @@
 
 Name | Beschreibung
 --- | ---
-entals_*YEAR*.csv | Ausleihen des Jahres *YEAR*, z.B. rentals_2014.csv beinhaltet die Ausleihen des Jahres 2014.
+rentals_*YEAR*.csv | Ausleihen des Jahres *YEAR*, z.B. rentals_2014.csv beinhaltet die Ausleihen des Jahres 2014.
 
 
 # Lizenzen
