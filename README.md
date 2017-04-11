@@ -2,9 +2,9 @@
 # Datensätze
 
 
-Name | Beschreibung 
---- | --- 
-rentals_*YEAR*.csv | Ausleihen des Jahres *YEAR*, z.B. rentals_2014.csv beinhaltet die Ausleihen des Jahres 2014. 
+| Name | Beschreibung |
+|:---|:---|
+|rentals_*YEAR*.csv | Ausleihen des Jahres *YEAR*, z.B. rentals_2014.csv beinhaltet die Ausleihen des Jahres 2014. |
 
 
 # Lizenzen
